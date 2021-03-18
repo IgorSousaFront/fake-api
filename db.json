@@ -1,14 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "characters": [
+    {
+      "id": 1,
+      "name": "Donna"
+    },
+    {
+      "id": 2,
+      "name": "Milo"
+    },
+    {
+      "id": 3,
+      "name": "Bruce"
+    },
+    {
+      "id": 4,
+      "name": "Shelly"
+    },
+    {
+      "id": 5,
+      "name": "Duke"
+    },
+    {
+      "id": 6,
+      "name": "Betsy"
+    },
+    {
+      "id": 7,
+      "name": "Lizzy"
+    },
+    {
+      "id": 8,
+      "name": "Finn"
+    },
+    {
+      "id": 9,
+      "name": "Louie"
+    },
+    {
+      "id": 10,
+      "name": "Henry"
+    },
+    {
+      "id": 11,
+      "name": "Steve"
+    },
+    {
+      "id": 12,
+      "name": "Larry"
+    },
+    {
+      "id": 13,
+      "name": "Skippy"
+    },
+    {
+      "id": 14,
+      "name": "Buck"
+    },
+    {
+      "id": 15,
+      "name": "Jade"
+    },
+    {
+      "id": 16,
+      "name": "Molly"
+    },
+    {
+      "id": 17,
+      "name": "Earl"
+    },
+    {
+      "id": 18,
+      "name": "Fuzzy"
+    },
+    {
+      "id": 19,
+      "name": "Nix"
+    },
+    {
+      "id": 20,
+      "name": "Ollie"
+    }
+  ]
 }

@@ -2,83 +2,108 @@
   "characters": [
     {
       "id": 1,
-      "name": "Donna"
+      "name": "Donna",
+      "subtitle": "Doçura traiçoeira"
     },
     {
       "id": 2,
-      "name": "Milo"
+      "name": "Milo",
+      "subtitle": "Ótimo vigia"
     },
     {
       "id": 3,
-      "name": "Bruce"
+      "name": "Bruce",
+      "subtitle": "Guerreiro irrefreável"
     },
     {
       "id": 4,
-      "name": "Shelly"
+      "name": "Shelly",
+      "subtitle": "Atiradora blindada"
     },
     {
       "id": 5,
-      "name": "Duke"
+      "name": "Duke",
+      "subtitle": "Tanque de pavio curto"
     },
     {
       "id": 6,
-      "name": "Betsy"
+      "name": "Betsy",
+      "subtitle": "Construtora engenhosa"
     },
     {
       "id": 7,
-      "name": "Lizzy"
+      "name": "Lizzy",
+      "subtitle": "Ardilosa de suporte"
     },
     {
       "id": 8,
-      "name": "Finn"
+      "name": "Finn",
+      "subtitle": "Caçador imprudente"
     },
     {
       "id": 9,
-      "name": "Louie"
+      "name": "Louie",
+      "subtitle": "Mestre da horda"
     },
     {
       "id": 10,
-      "name": "Henry"
+      "name": "Henry",
+      "subtitle": "Mordedor ligeiro"
     },
     {
       "id": 11,
-      "name": "Steve"
+      "name": "Steve",
+      "subtitle": "Mergulho destemido"
     },
     {
       "id": 12,
-      "name": "Larry"
+      "name": "Larry",
+      "subtitle": "Ameaça sorrateira"
     },
     {
       "id": 13,
-      "name": "Skippy"
+      "name": "Skippy",
+      "subtitle": "Acrobata ágil"
     },
     {
       "id": 14,
-      "name": "Buck"
+      "name": "Buck",
+      "subtitle": "Lutador de curto alcance"
     },
     {
       "id": 15,
-      "name": "Jade"
+      "name": "Jade",
+      "subtitle": "Brigão bate e corre"
     },
     {
       "id": 16,
-      "name": "Molly"
+      "name": "Molly",
+      "subtitle": "Especialista em mobilidade"
     },
     {
       "id": 17,
-      "name": "Earl"
+      "name": "Earl",
+      "subtitle": "Combatente educado"
     },
     {
       "id": 18,
-      "name": "Fuzzy"
+      "name": "Fuzzy",
+      "subtitle": "Pinguim esquentado"
     },
     {
       "id": 19,
-      "name": "Nix"
+      "name": "Nix",
+      "subtitle": "Ligeiro e astuto"
     },
     {
       "id": 20,
-      "name": "Ollie"
+      "name": "Ollie",
+      "subtitle": "Glutão veloz"
+    },
+    {
+      "id": 21,
+      "name": "Pepper",
+      "subtitle": "Atirador de elite"
     }
   ]
 }
